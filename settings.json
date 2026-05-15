@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Player_0",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "SKD_Saisoku.aternos.me",
